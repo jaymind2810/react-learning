@@ -1,11 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-
-my-redux-example/node_modules
-react-route-example/node_modules
-react-complete-guide/node_modules
-
 /node_modules
 /.pnp
 .pnp.js
